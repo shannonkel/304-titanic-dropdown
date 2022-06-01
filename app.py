@@ -9,7 +9,7 @@ import plotly.graph_objs as go
 
 
 ###### Define your variables #####
-tabtitle = 'Titanic!'
+tabtitle = 'Titanic2'
 color1='#92A5E8'
 color2='#8E44AD'
 color3='#FFC300'
