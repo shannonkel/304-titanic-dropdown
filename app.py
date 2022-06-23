@@ -14,7 +14,7 @@ color1='#1CB027'
 color2='#7C83D5'
 color3='#BA2EA1'
 sourceurl = 'https://www.kaggle.com/c/titanic'
-githublink = 'https://github.com/plotly-dash-apps/304-titanic-dropdown'
+githublink = 'https://github.com/shannonkel/shannonk-titanic-dropdown'
 
 
 ###### Import a dataframe #######
